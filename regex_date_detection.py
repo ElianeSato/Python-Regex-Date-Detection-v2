@@ -1,5 +1,5 @@
 #! home/Python/Automate_Python_book/regex_date_detection.py
-# regex_date_detection.py: This program validates dates in the format DD/MM/YYYY.
+# regex_date_detection.py: This program validates dates in the format DD/MM/YYYY..
 
 import re
 
